@@ -1,1 +1,2 @@
 dwave-ocean-sdk
+matplotlib
