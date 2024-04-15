@@ -2,3 +2,5 @@ dwave-ocean-sdk
 matplotlib
 networkx
 pandas
+plotly
+nbformat
